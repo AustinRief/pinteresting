@@ -4,3 +4,5 @@ This is the pinteresting sample application for
 [*one month rails*](http://onemonthrails.com)
 
 by [Austin Rief]
+
+TYLER LIKES BALLS IN HIS MOUTH
