@@ -1,5 +1,27 @@
-$body-bg:       #2c3e50;
-$navbar-default-bg:    #2ecc71;
-$navbar-default-link-color: white;
-$jumbotron-bg: #e74c3c;
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+$body-bg:       #95a5a6;
+$font-family-san-serif:    'Lato', 'Helvetics Neue', Helvetica, Arial, sans-serif;
+$navbar-height:    45px;
+$navbar-default-bg:    white;
+$navbar-default-brand-color: #c0392b;
+$jumbotron-bg: white;
+$jumbotron-heading-color:   black;
+
 @import 'bootstrap';
+
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
+
+.fsbutton
+{
+background-color: #c0392b;
+color: black;
+font-weight: bold;
+}
